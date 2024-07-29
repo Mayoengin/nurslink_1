@@ -1,0 +1,14 @@
+flutter_native_splash:
+  color: "#4F0066"
+  color_dark: "#272727"
+  image: assets/images/profile/belsante_logo_NoBG.png
+  image_dark: assets/images/profile/belsante_logo_NoBG.png
+
+  android_12:
+    image: assets/images/profile/belsante_logo_NoBG.png
+    image_dark: assets/images/profile/belsante_logo_NoBG.png
+
+  web: false
+
+# CREATE - flutter pub run flutter_native_splash:create --path=splash.yaml
+# REMOVE - flutter pub run flutter_native_splash:remove --path=splash.yaml

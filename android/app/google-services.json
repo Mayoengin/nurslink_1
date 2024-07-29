@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "143328590478",
+    "firebase_url": "https://belsante-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "belsante-app",
+    "storage_bucket": "belsante-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143328590478:android:14c496cae313687cb5a7df",
+        "android_client_info": {
+          "package_name": "com.codingwitht.login_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143328590478-fkik59d7706q1pe840kho0qa0580eqdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwitht.login_flutter_app",
+            "certificate_hash": "6b7c2bc1f2c029503f5960b631f25b9d8ca562a6"
+          }
+        },
+        {
+          "client_id": "143328590478-9vpogg5r1oh9iru0hjbiripmmvvt9rr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XcmXLCvUH-SX0qttLghrfvp9glWKhbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143328590478-9vpogg5r1oh9iru0hjbiripmmvvt9rr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143328590478-3am95v5e33l54khu0umni0ppp99epgo9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "belsante-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143328590478:android:52c7898637bcf3b7b5a7df",
+        "android_client_info": {
+          "package_name": "com.codingwitht.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143328590478-9vpogg5r1oh9iru0hjbiripmmvvt9rr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XcmXLCvUH-SX0qttLghrfvp9glWKhbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143328590478-9vpogg5r1oh9iru0hjbiripmmvvt9rr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143328590478-3am95v5e33l54khu0umni0ppp99epgo9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "belsante-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143328590478:android:b88dd36881d69e9db5a7df",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143328590478-9vpogg5r1oh9iru0hjbiripmmvvt9rr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XcmXLCvUH-SX0qttLghrfvp9glWKhbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143328590478-9vpogg5r1oh9iru0hjbiripmmvvt9rr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143328590478-3am95v5e33l54khu0umni0ppp99epgo9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "belsante-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143328590478:android:252f01978d820ea8b5a7df",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143328590478-qeo8m541k7ga7al1gb8oon17vlir720l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.healthai",
+            "certificate_hash": "6b7c2bc1f2c029503f5960b631f25b9d8ca562a6"
+          }
+        },
+        {
+          "client_id": "143328590478-9vpogg5r1oh9iru0hjbiripmmvvt9rr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XcmXLCvUH-SX0qttLghrfvp9glWKhbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143328590478-9vpogg5r1oh9iru0hjbiripmmvvt9rr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143328590478-3am95v5e33l54khu0umni0ppp99epgo9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "belsante-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143328590478:android:599ea115c58a0863b5a7df",
+        "android_client_info": {
+          "package_name": "net.codex.fluttersignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143328590478-9vpogg5r1oh9iru0hjbiripmmvvt9rr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XcmXLCvUH-SX0qttLghrfvp9glWKhbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143328590478-9vpogg5r1oh9iru0hjbiripmmvvt9rr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143328590478-3am95v5e33l54khu0umni0ppp99epgo9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "belsante-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
